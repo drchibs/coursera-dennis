@@ -1,4 +1,2 @@
 # hng-dennis
-This is my rep for HNG internship
-
-i am also to commit a readme.txt file to this repo
+This is now a rep for my coursera HTML, CSS, JAVASCRIPT refresh learning.
